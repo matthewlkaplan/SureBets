@@ -1,3 +1,8 @@
+#
+# algorithm to determine if two odds on a two-way bet provide an arbitrage 
+# opportunity and calculates project return on investment
+#
+
 # prompts user for odds input
 odd1 = float(input('First odd: '))
 odd2 = float(input('Second odd: '))
