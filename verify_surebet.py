@@ -15,7 +15,7 @@ odd2 = round(convert(odd2),2)
 print(f"Decimal odd1: {odd1}")
 print(f"Decimal odd2: {odd2}")
 
-# identifies these odds provide an arbitrage opportunity
+# determines whether these odds provide an arbitrage opportunity
 if (1/odd1 + 1/odd2 < 1): print('This is a sure bet')
 
 # calculates projected ROI
