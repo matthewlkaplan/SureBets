@@ -1,5 +1,5 @@
 #
-# algorithm to determine if two odds on a two-way bet provide an arbitrage 
+# algorithm to determine whether two odds on a two-way bet provide an arbitrage 
 # opportunity and calculates project return on investment
 #
 
