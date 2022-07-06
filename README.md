@@ -1,2 +1,4 @@
 # surebets
-Project to identify and exploit surebets in the sports betting market
+A personal project I undertook to identify arbitrage opportunities in the sports betting markets.
+
+Arbitrage opportunities arise when there is a discrepancy between the odds on the same event from two different bookmakers. A smart better can place bets on al outcomes of the event with different bookmakers at odds that guarantee profit. m
